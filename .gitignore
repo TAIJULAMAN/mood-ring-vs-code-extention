@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Production
+out/
+dist/
+
+# Misc
+.DS_Store
+.vscode-test/
+.vsc-test/
+*.vsix
+
+# Logs
+*.log
+
+# Editor
+.vscode
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
+# TypeScript
+*.tsbuildinfo
