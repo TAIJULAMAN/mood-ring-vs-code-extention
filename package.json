@@ -9,6 +9,11 @@
   "categories": [
     "Other"
   ],
+  "publisher": "TAIJULAMAN",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TAIJULAMAN/mood-ring-vs-code-extention.git"
+  },
   "activationEvents": [
     "onStartupFinished"
   ],
