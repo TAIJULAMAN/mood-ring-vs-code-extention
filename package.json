@@ -3,13 +3,14 @@
   "displayName": "Mood Ring",
   "description": "A VS Code extension that detects your mood based on typing checks and adjusts the theme.",
   "version": "0.0.1",
+  "icon": "media/icon.png",
   "engines": {
     "vscode": "^1.85.0"
   },
   "categories": [
     "Other"
   ],
-  "publisher": "TAIJULAMAN",
+  "publisher": "MdShahAmanPatwary",
   "repository": {
     "type": "git",
     "url": "https://github.com/TAIJULAMAN/mood-ring-vs-code-extention.git"
