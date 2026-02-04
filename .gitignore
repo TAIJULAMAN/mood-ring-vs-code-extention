@@ -7,7 +7,6 @@ dist/
 
 # Misc
 .DS_Store
-.vscode-test/
 .vsc-test/
 *.vsix
 
@@ -15,11 +14,10 @@ dist/
 *.log
 
 # Editor
-.vscode
-!.vscode/extensions.json
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
 
 # TypeScript
 *.tsbuildinfo
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
